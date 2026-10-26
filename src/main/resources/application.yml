@@ -1,0 +1,10 @@
+server:
+  port: 8443
+spring:
+  application:
+    name: mrf-payments-gateway
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,prometheus
