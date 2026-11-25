@@ -16,7 +16,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <spring-boot.version>4.0.9</spring-boot.version>
     <!-- Pinned in 2021 for the HSM audit appender (PAY-1187); see docs/logging.md -->
-    <log4j2.version>2.14.1</log4j2.version>
+    <log4j2.version>2.26.1</log4j2.version>
   </properties>
 
   <dependencies>
